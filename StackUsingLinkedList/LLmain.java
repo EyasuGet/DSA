@@ -11,8 +11,7 @@ public class LLmain {
         st.display();
         st.peek();
         st.pop();
-        st.display();
-        st.size();
+        
 
 
     }
